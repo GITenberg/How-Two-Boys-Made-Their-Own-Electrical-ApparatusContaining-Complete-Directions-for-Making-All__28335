@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '33278'
     url: http://www.gutenberg.org/2009/agents/33278
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28335#How-Two-Boys-Made-Their-Own-Electrical-ApparatusContaining-Complete-Directions-for-Making-All_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2009-03-15'
 gutenberg_type: Text
